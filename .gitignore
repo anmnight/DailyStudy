@@ -1,9 +1,17 @@
-<<<<<<< HEAD
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
+.gradle
+/local.properties
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
 local.properties
 
 # Log/OS Files
@@ -32,19 +40,3 @@ google-services.json
 
 # Android Profiling
 *.hprof
-=======
-.gradle
-/local.properties
-/.idea
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
->>>>>>> 91831eb (init repo)
